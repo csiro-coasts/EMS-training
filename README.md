@@ -1,2 +1,2 @@
 # EMS-training
-EMS example notebooks for training purposes
+Example notebooks and data for working with CSIRO's Environmental Modelling Suite (EMS) output.
